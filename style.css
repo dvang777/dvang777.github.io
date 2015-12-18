@@ -4,7 +4,7 @@ h1 {
 	text-align: center;
 }
 header{
-	background-image: url(backblue.jpg);
+	background-image: url(pictures/backblue.jpg);
 	margin: 0;
 	padding: 40px 10px;
 }
@@ -78,7 +78,7 @@ form div label{
 	padding: 15px;
 }
 .body1{
-	background-image: url(busblue1.jpg);
+	background-image: url(pictures/busblue1.jpg);
 	background-position: center;
 	background-size: 100%;
 	margin: 0 auto;
